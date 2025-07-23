@@ -28,14 +28,14 @@ Aqui está o funcionamento passo a passo do script [bf.py](https://github.com/ah
 ## 1. Incicialização
 
 ```
-tape = [0] * 30000
+tape = [0] * 1000
 ptr = 0
 i = 0
 loop_stack = []
 
 ```
 
-- Cria uma "fita" com 30.000 células (como um array de memória).
+- Cria uma "fita" com 1000 células (como um array de memória).
 - O ponteiro ptr começa na primeira célula.
 - A variável i percorre o código Brainfuck.
 - A loop_stack guarda as posições de colchetes [ para controle de loops aninhados.
