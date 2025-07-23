@@ -47,11 +47,11 @@ while i < len(code):
     command = code[i]
 ```
 
-### A cada iteração, o script analisa um caractere do código Brainfuck.
+- A cada iteração, o script analisa um caractere do código Brainfuck.
 
 ## 3. Comandos principais
 
-### \> e < → movem o ponteiro
+- \> e < → movem o ponteiro
 
 ```
 if command == '>':
