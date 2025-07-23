@@ -47,7 +47,7 @@ A cada iteração, o script analisa um caractere do código Brainfuck.
 
 ## 3. Comandos principais
 
-\> e < → movem o ponteiro
+### \> e < → movem o ponteiro
 
 ```
 if command == '>':
@@ -56,7 +56,7 @@ elif command == '<':
     ptr -= 1
 ```
 
-+ e - → modificam a célula atual
+### \+ e - → modificam a célula atual
 
 ```
 elif command == '+':
