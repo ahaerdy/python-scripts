@@ -17,5 +17,20 @@ Brainfuck opera sobre uma "fita" (array) de células (valores inteiros de 0 a 25
 | `[`     | Início de um **loop**: se o valor da célula atual for 0, pula até o `]`  |
 | `]`     | Fim do loop: se o valor da célula atual for diferente de 0, volta ao `[` |
 
+# Como o Interpretador Funciona (Explicação do Script em Python)
 
+Aqui está o funcionamento passo a passo do script bf.py:
+
+```
+tape = [0] * 30000
+ptr = 0
+i = 0
+loop_stack = []
+
+```
+
+- Cria uma "fita" com 30.000 células (como um array de memória).
+- O ponteiro ptr começa na primeira célula.
+- A variável i percorre o código Brainfuck.
+- A loop_stack guarda as posições de colchetes [ para controle de loops aninhados.
 
