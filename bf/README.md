@@ -139,7 +139,7 @@ python bf.py
 
 # Dica de Segurança
 
-Brainfuck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como forkbombs) — especialmente se usados com `eval`.
+Brainfuck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como [forkbombs](https://en.wikipedia.org/wiki/Fork_bomb)) — especialmente se usados com `eval`.
 
 ## Extras
 
