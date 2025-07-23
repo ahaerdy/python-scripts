@@ -131,12 +131,11 @@ H, e, l, l, o, , W, o, r, l, d, !
 
 1. Salve o código como bf.py
 2. Execute no terminal:
-
 ```
 python bf.py
 
 ```
-3. Cole o código Brainfuck quando solicitado.
+3. Cole o código quando solicitado.
 
 # Dica de Segurança
 
