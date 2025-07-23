@@ -1,5 +1,14 @@
 # Introdução à Linguagem Brainfuck
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
+  <img src="https://img.shields.io/badge/Linguagem-Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Tipo-Interpretador%20Brainfuck-informational" />
+  <img src="https://img.shields.io/github/last-commit/ahaerdy/python-scripts" />
+  <img src="https://img.shields.io/github/license/ahaerdy/python-scripts" />
+</p>
+
+
 Brainfuck é uma _linguagem de programação esotérica_ criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é [Turing completa](https://pt.wikipedia.org/wiki/Turing_completude) — ou seja, capaz de expressar qualquer algoritmo.
 
 <p align="center">
