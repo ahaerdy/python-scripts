@@ -69,7 +69,7 @@ elif command == '-':
     tape[ptr] = (tape[ptr] - 1) % 256
 ```
 
-### O % 256 garante que os valores fiquem entre 0 e 255 (comportamento cíclico).
+- O % 256 garante que os valores fiquem entre 0 e 255 (comportamento cíclico).
 
 ## 4. Saída e entrada
 
