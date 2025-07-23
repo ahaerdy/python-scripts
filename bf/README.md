@@ -4,7 +4,7 @@ Brainfuck é uma linguagem de programação esotérica criada por Urban Müller 
 
 <p align="center">
    <img src="bf_demo.png" alt="Demonstração do código Brainf*ck em execução" width="480" />
-</a>
+</p>
 
 # Sintaxe: Os 8 Comandos da Linguagem
 
