@@ -1,4 +1,4 @@
-# Introdução à Linguagem Brainf_ck
+# Introdução à Linguagem Brainfuck
 
 Brainf_ck é uma linguagem de programação esotérica criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é Turing completa — ou seja, capaz de expressar qualquer algoritmo.
 
@@ -142,5 +142,6 @@ python bf.py
 # 3 Dica de Segurança
 
 Brainf_ck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como forkbombs) — especialmente se usados com `eval`.
+
 
 
