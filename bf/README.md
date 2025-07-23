@@ -19,7 +19,7 @@ Brainfuck opera sobre uma "fita" (array) de células (valores inteiros de 0 a 25
 
 # Como o Interpretador Funciona (Explicação do Script em Python)
 
-Aqui está o funcionamento passo a passo do script bf.py:
+Aqui está o funcionamento passo a passo do script [bf.py](https://github.com/ahaerdy/python-scripts/blob/main/bf/bf.py):
 
 ```
 tape = [0] * 30000
