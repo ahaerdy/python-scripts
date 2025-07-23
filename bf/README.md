@@ -129,14 +129,14 @@ H, e, l, l, o, , W, o, r, l, d, !
 
 # Como usar o interpretador
 
-- 1. Salve o código como bf.py
-- 2. Execute no terminal:
+1. Salve o código como bf.py
+2. Execute no terminal:
 
 ```
 python bf.py
 
 ```
-- 3. Cole o código Brainfuck quando solicitado.
+3. Cole o código Brainfuck quando solicitado.
 
 # Dica de Segurança
 
