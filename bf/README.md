@@ -139,10 +139,10 @@ python bf.py
 
 ## 3. Cole o código Brainfuck quando solicitado.
 
-# 3 Dica de Segurança
+# Dica de Segurança
 
 Brainfuck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como forkbombs) — especialmente se usados com `eval`.
 
-# Extras
+## Extras
 
 - [Brainfuck Fork Bomb Generator](https://github.com/victornunesc/brainfuck-forkbomb)
