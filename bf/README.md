@@ -43,7 +43,7 @@ while i < len(code):
     command = code[i]
 ```
 
-A cada iteração, o script analisa um caractere do código Brainfuck.
+### A cada iteração, o script analisa um caractere do código Brainfuck.
 
 ## 3. Comandos principais
 
@@ -65,4 +65,17 @@ elif command == '-':
     tape[ptr] = (tape[ptr] - 1) % 256
 ```
 
-O % 256 garante que os valores fiquem entre 0 e 255 (comportamento cíclico).
+### O % 256 garante que os valores fiquem entre 0 e 255 (comportamento cíclico).
+
+## 4. Saída e entrada
+
+```
+elif command == '.':
+    print(chr(tape[ptr]), end='')
+elif command == ',':
+    user_input = input("Entrada: ")[0]
+    tape[ptr] = ord(user_input)
+```
+
+### . imprime o valor da célula como caractere ASCII.
+### , lê um caractere do usuário e armazena como número na célula.
