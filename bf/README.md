@@ -60,7 +60,7 @@ elif command == '<':
     ptr -= 1
 ```
 
-### \+ e - → modificam a célula atual
+- \+ e - → modificam a célula atual
 
 ```
 elif command == '+':
