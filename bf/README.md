@@ -1,14 +1,14 @@
 # Introdução à Linguagem Brainfuck
 
-Brainf_ck é uma linguagem de programação esotérica criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é Turing completa — ou seja, capaz de expressar qualquer algoritmo.
+Brainfuck é uma linguagem de programação esotérica criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é Turing completa — ou seja, capaz de expressar qualquer algoritmo.
 
 <p align="center">
-   <img src="bf_demo.gif" alt="Demonstração do código Brainf_ck em execução" width="480" />
+   <img src="bf_demo.gif" alt="Demonstração do código Brainfuck em execução" width="480" />
 </p>
 
 # Sintaxe: Os 8 Comandos da Linguagem
 
-Brainf_ck opera sobre uma "fita" (array) de células (valores inteiros de 0 a 255), um ponteiro de posição e um conjunto mínimo de instruções:
+Brainfuck opera sobre uma "fita" (array) de células (valores inteiros de 0 a 255), um ponteiro de posição e um conjunto mínimo de instruções:
 
 | Comando | Significado                                                              |
 | ------- | ------------------------------------------------------------------------ |
@@ -37,7 +37,7 @@ loop_stack = []
 
 - Cria uma "fita" com 30.000 células (como um array de memória).
 - O ponteiro ptr começa na primeira célula.
-- A variável i percorre o código Brainf_ck.
+- A variável i percorre o código Brainfuck.
 - A loop_stack guarda as posições de colchetes [ para controle de loops aninhados.
 
 ## 2. Interpretação comando a comando
@@ -47,7 +47,7 @@ while i < len(code):
     command = code[i]
 ```
 
-### A cada iteração, o script analisa um caractere do código Brainf_ck.
+### A cada iteração, o script analisa um caractere do código Brainfuck.
 
 ## 3. Comandos principais
 
@@ -107,7 +107,7 @@ elif command == ']':
 
 - Isso permite que o código repita trechos enquanto a célula atual for diferente de 0, como while.
 
-# Exemplo: "Hello World!" em Brainf_ck
+# Exemplo: "Hello World!" em Brainfuck
 
 ```
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -137,11 +137,11 @@ H, e, l, l, o, , W, o, r, l, d, !
 python bf.py
 ```
 
-## 3. Cole o código Brainf_ck quando solicitado.
+## 3. Cole o código Brainfuck quando solicitado.
 
 # 3 Dica de Segurança
 
-Brainf_ck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como forkbombs) — especialmente se usados com `eval`.
+Brainfuck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como forkbombs) — especialmente se usados com `eval`.
 
 
 
