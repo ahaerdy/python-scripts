@@ -397,4 +397,4 @@ Cmd #107  '+'	Ptr: 3    	Tape:   0  87 100 [33]  10   0   0	Output: Hello World	
 Cmd #108  '.'	Ptr: 3    	Tape:   0  87 100 [33]  10   0   0	Output: Hello World!	Desc: Imprime o caractere ASCII da célula atual.
 Cmd #109  '>'	Ptr: 4    	Tape:  87 100  33 [10]   0   0   0	Output: Hello World!	Desc: Move o ponteiro para a direita.
 Cmd #110  '.'	Ptr: 4    	Tape:  87 100  33 [10]   0   0   0	Output: Hello World!
-	Desc: Imprime o caractere ASCII da célula atual.
+	Desc: Imprime o caractere ASCII da célula atual
