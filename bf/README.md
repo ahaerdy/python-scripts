@@ -1,6 +1,6 @@
 # Introdução à Linguagem Brainfuck
 
-Brainfuck é uma __linguagem de programação esotérica__ criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é [Turing completa](https://pt.wikipedia.org/wiki/Turing_completude) — ou seja, capaz de expressar qualquer algoritmo.
+Brainfuck é uma _linguagem de programação esotérica_ criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é [Turing completa](https://pt.wikipedia.org/wiki/Turing_completude) — ou seja, capaz de expressar qualquer algoritmo.
 
 <p align="center">
    <img src="bf_demo.gif" alt="Demonstração do código Brainfuck em execução" width="480" />
