@@ -107,7 +107,7 @@ elif command == ']':
 
 - Isso permite que o código repita trechos enquanto a célula atual for diferente de 0, como while.
 
-# Exemplo: "Hello World!" em Brainfuck
+# Exemplo: "Hello World!"
 
 ```
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
