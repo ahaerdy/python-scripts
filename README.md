@@ -5,6 +5,6 @@ Repositório com scripts Python focados em aprendizado, testes e projetos experi
 
 | Script | Descrição |
 |--------|-----------|
-| [`bf`]| Um interpretador da linguagem esotérica Brainf_ck escrito 100% em Python puro. |
+| [`brainfuck_interpreter.py`](#🧠-interpretador-brainfuck)| Um interpretador da linguagem esotérica Brainf_ck escrito 100% em Python puro. |
 | Em breve | Novos scripts serão adicionados regularmente. |
 
