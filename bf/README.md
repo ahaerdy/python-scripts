@@ -21,6 +21,8 @@ Brainfuck opera sobre uma "fita" (array) de células (valores inteiros de 0 a 25
 
 Aqui está o funcionamento passo a passo do script [bf.py](https://github.com/ahaerdy/python-scripts/blob/main/bf/bf.py):
 
+## 1. Incicialização
+
 ```
 tape = [0] * 30000
 ptr = 0
@@ -33,4 +35,17 @@ loop_stack = []
 - O ponteiro ptr começa na primeira célula.
 - A variável i percorre o código Brainfuck.
 - A loop_stack guarda as posições de colchetes [ para controle de loops aninhados.
+
+## 2. Interpretação comando a comando
+
+```
+while i < len(code):
+    command = code[i]
+```
+
+A cada iteração, o script analisa um caractere do código Brainfuck.
+
+## 3. Comandos principais
+
+> e < → movem o ponteiro
 
