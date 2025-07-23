@@ -77,5 +77,66 @@ elif command == ',':
     tape[ptr] = ord(user_input)
 ```
 
-### . imprime o valor da célula como caractere ASCII.
-### , lê um caractere do usuário e armazena como número na célula.
+- . imprime o valor da célula como caractere ASCII.
+- , lê um caractere do usuário e armazena como número na célula.
+
+## 5. Estrutura de controle (loops)
+- \[ → início de loop
+
+```
+elif command == '[':
+    if tape[ptr] == 0:
+        # pula para depois do ']'
+    else:
+        loop_stack.append(i)
+```
+
+- \] → fim de loop
+
+```
+elif command == ']':
+    if tape[ptr] != 0:
+        i = loop_stack[-1]  # volta para o início do loop
+    else:
+        loop_stack.pop()
+```
+
+- Isso permite que o código repita trechos enquanto a célula atual for diferente de 0, como while.
+
+# Exemplo: "Hello World!" em Brainfuck
+
+```
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+```
+
+## Passo a passo:
+
+- ++++++++++ → célula 0 = 10
+- [>+++++++>++++++++++>+++>+<<<<-] → loop que prepara as células 1 a 4 com valores:
+- célula 1 = 70 (H)
+- célula 2 = 100 (e)
+- etc.
+
+## Depois disso, o código move entre essas células e usa . para imprimir:
+
+```
+H, e, l, l, o, , W, o, r, l, d, !
+```
+
+# Como usar o interpretador
+
+## 1. Salve o código como bf.py
+
+## 2. Execute no terminal:
+
+```
+python bf.py
+```
+
+## 3. Cole o código Brainfuck quando solicitado.
+
+# 3 Dica de Segurança
+
+Brainfuck por si só é inofensivo. Mas, evite executar códigos desconhecidos em interpretadores automatizados, especialmente se forem de fontes não confiáveis. Eles podem esconder comportamentos perigosos (como forkbombs) — especialmente se usados com `eval`.
+
+
