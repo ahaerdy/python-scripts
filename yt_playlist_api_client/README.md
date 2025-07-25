@@ -1,4 +1,4 @@
-# Automação em Python com YouTube Data API v3
+# YouTube Data API CLient
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-concluído-brightgreen" />
@@ -10,7 +10,7 @@
 </p>
 
 
-Este projeto em Python tem como objetivo **coletar informações detalhadas dos vídeos de uma playlist do YouTube**, utilizando a [YouTube Data API v3](https://developers.google.com/youtube/v3). Ele é voltado para **automatização de tarefas de análise de conteúdo** e pode ser facilmente adaptado para projetos de monitoramento de canais, relatórios de engajamento, ou extração de dados.
+Este projeto em Python tem como objetivo **coletar informações detalhadas dos vídeos de uma playlist do YouTube**, utilizando a [YouTube Data API v3](https://developers.google.com/youtube/v3). Ele é voltado para **automação de tarefas de análise de conteúdo** e pode ser facilmente adaptado para projetos de monitoramento de canais, relatórios de engajamento, ou extração de dados.
 
 ## 🔍 O que este script faz
 
