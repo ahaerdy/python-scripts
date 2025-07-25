@@ -32,6 +32,7 @@ def imprimir_resposta_playlist(youtube, response):
             id=video_id
         ).execute()
 
+        
         if not video_response["items"]:
             titulo = "Vídeo não encontrado ou privado"
             views = "N/A"
