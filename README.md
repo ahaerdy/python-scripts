@@ -20,5 +20,5 @@ Repositório com scripts Python focados em aprendizado, testes e projetos experi
 | Script | Descrição |
 |--------|-----------|
 | [`bf`](https://github.com/ahaerdy/python-scripts/tree/main/bf)| Um interpretador da linguagem esotérica Brainfuck escrito 100% em Python puro. |
-| [youtube_scrapper](https://github.com/ahaerdy/python-scripts/tree/main/youtube_scrapper) | Extrator de dados de vídeos em playlists do YouTube. | Em breve | Novos scripts serão adicionados regularmente. |
+| [yt_playlist__scrapper](https://github.com/ahaerdy/python-scripts/tree/main/youtube_scrapper) | Extrator de dados de vídeos em playlists do YouTube. | Em breve | Novos scripts serão adicionados regularmente. |
 
