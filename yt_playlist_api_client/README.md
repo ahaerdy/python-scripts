@@ -1,4 +1,4 @@
-# YouTube Playlist API Client
+# Automação em Python com YouTube Data API v3
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-concluído-brightgreen" />
