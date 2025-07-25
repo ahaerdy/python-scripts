@@ -1,9 +1,10 @@
 # YouTube Playlist Scrapper
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-em%20desenvolvimento-yellowgreen" />
+  <img src="https://img.shields.io/badge/Status-concluído-brightgreen" />
+
   <img src="https://img.shields.io/badge/Linguagem-Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO" />
+  <img src="https://img.shields.io/badge/API-Google%20YouTube-red" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/Plataforma-Terminal-lightgrey" />
 </p>
