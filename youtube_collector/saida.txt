@@ -1,0 +1,113 @@
+Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=184655374377-c0phdmulrcmembirf46nh922efhf90jt.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A53229%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&state=QvTJzTb9dUYEv3AQK4Uh8U26vqCtrI&access_type=offline
+
+Dicionário Python contendo os dados dos vídeos da playlist:
+
+--------------------------------------------------------------------------------
+{'kind': 'youtube#playlistItemListResponse', 'etag': 'Q96Z63zqpSC08XFtB-QLLWgAh_c', 'items': [{'kind': 'youtube#playlistItem', 'etag': '6OtmbGMF8SOcLB4n30-4uLLCz24', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC41NkI0NEY2RDEwNTU3Q0M2', 'contentDetails': {'videoId': 'NRFZFXT1JvM', 'videoPublishedAt': '2025-01-07T20:00:10Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'Z--iMf0y0vyouznPumh3cCOhku8', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4yODlGNEE0NkRGMEEzMEQy', 'contentDetails': {'videoId': 'BXzKS1heLNU', 'videoPublishedAt': '2025-01-09T20:00:06Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'X5Ffc9CHk7om2UAC2fmXLoGzPkA', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4wMTcyMDhGQUE4NTIzM0Y5', 'contentDetails': {'videoId': 'F6A5uGTZIhM', 'videoPublishedAt': '2025-01-21T20:00:05Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'dpK6o7mEjckFxYrF-6FIa0UwRuY', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC41MjE1MkI0OTQ2QzJGNzNG', 'contentDetails': {'videoId': 'CXwdRyCxM-g', 'videoPublishedAt': '2025-01-23T20:00:04Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'CnCzW1mXHDHF9Pb2xQ4qxCFPa6Y', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4wOTA3OTZBNzVEMTUzOTMy', 'contentDetails': {'videoId': 't72JckahXfk', 'videoPublishedAt': '2025-01-28T20:00:27Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'kLeu5wBCoZrR5IH6P1emxrnCEyk', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4xMkVGQjNCMUM1N0RFNEUx', 'contentDetails': {'videoId': 'K8K5EBaxddU', 'videoPublishedAt': '2025-01-30T20:00:10Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'MDQRpKxbd8aZhMHiNw_UP0MXxJc', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC41MzJCQjBCNDIyRkJDN0VD', 'contentDetails': {'videoId': 'bdt5N8LaGBg', 'videoPublishedAt': '2025-02-04T20:00:18Z'}}, {'kind': 'youtube#playlistItem', 'etag': '6XAd2p8i87Bow62zdXv_NFl61D4', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC5DQUNERDQ2NkIzRUQxNTY1', 'contentDetails': {'videoId': '9DVDs2wle5o', 'videoPublishedAt': '2025-02-06T20:00:06Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'IEove1ZvrQHc4KEbzOgNvoLKP-Q', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC45NDk1REZENzhEMzU5MDQz', 'contentDetails': {'videoId': 'IbAqilmWKYw', 'videoPublishedAt': '2025-02-18T20:00:10Z'}}, {'kind': 'youtube#playlistItem', 'etag': 'vCLs0vZ6VKGuR7_mOWMxUD0Flvg', 'id': 'UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC5GNjNDRDREMDQxOThCMDQ2', 'contentDetails': {'videoId': 'eSTIP37zgx0', 'videoPublishedAt': '2025-02-20T20:00:21Z'}}], 'pageInfo': {'totalResults': 10, 'resultsPerPage': 25}}
+--------------------------------------------------------------------------------
+
+Informações em formato legível:
+
+🔍 Resultado da Playlist:
+Total de vídeos retornados: 10
+================================================================================
+📹 Vídeo 1:
+  • Título: Curso de Python 2025 - Aula 0 - Por que Python? + Instalação e Configurações
+  • Tipo do item: youtube#playlistItem
+  • ETag: 6OtmbGMF8SOcLB4n30-4uLLCz24
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC41NkI0NEY2RDEwNTU3Q0M2
+  • ID do vídeo: NRFZFXT1JvM
+  • Publicado em: 2025-01-07T20:00:10Z
+  • Link: https://www.youtube.com/watch?v=NRFZFXT1JvM
+  • Visualizações: 41457
+--------------------------------------------------------------------------------
+📹 Vídeo 2:
+  • Título: Curso de Python 2025 - Aula 1 - Variáveis e Operações
+  • Tipo do item: youtube#playlistItem
+  • ETag: Z--iMf0y0vyouznPumh3cCOhku8
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4yODlGNEE0NkRGMEEzMEQy
+  • ID do vídeo: BXzKS1heLNU
+  • Publicado em: 2025-01-09T20:00:06Z
+  • Link: https://www.youtube.com/watch?v=BXzKS1heLNU
+  • Visualizações: 26723
+--------------------------------------------------------------------------------
+📹 Vídeo 3:
+  • Título: Curso de Python 2025 - Aula 2 - Textos, Strings e Exercícios
+  • Tipo do item: youtube#playlistItem
+  • ETag: X5Ffc9CHk7om2UAC2fmXLoGzPkA
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4wMTcyMDhGQUE4NTIzM0Y5
+  • ID do vídeo: F6A5uGTZIhM
+  • Publicado em: 2025-01-21T20:00:05Z
+  • Link: https://www.youtube.com/watch?v=F6A5uGTZIhM
+  • Visualizações: 14899
+--------------------------------------------------------------------------------
+📹 Vídeo 4:
+  • Título: Curso de Python 2025 - Aula 3 - Inputs e Listas
+  • Tipo do item: youtube#playlistItem
+  • ETag: dpK6o7mEjckFxYrF-6FIa0UwRuY
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC41MjE1MkI0OTQ2QzJGNzNG
+  • ID do vídeo: CXwdRyCxM-g
+  • Publicado em: 2025-01-23T20:00:04Z
+  • Link: https://www.youtube.com/watch?v=CXwdRyCxM-g
+  • Visualizações: 10405
+--------------------------------------------------------------------------------
+📹 Vídeo 5:
+  • Título: Curso de Python 2025 - Aula 4 - If, Condicionais e Comparações
+  • Tipo do item: youtube#playlistItem
+  • ETag: CnCzW1mXHDHF9Pb2xQ4qxCFPa6Y
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4wOTA3OTZBNzVEMTUzOTMy
+  • ID do vídeo: t72JckahXfk
+  • Publicado em: 2025-01-28T20:00:27Z
+  • Link: https://www.youtube.com/watch?v=t72JckahXfk
+  • Visualizações: 9706
+--------------------------------------------------------------------------------
+📹 Vídeo 6:
+  • Título: Curso de Python 2025 - Aula 5 - Dicionários
+  • Tipo do item: youtube#playlistItem
+  • ETag: kLeu5wBCoZrR5IH6P1emxrnCEyk
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC4xMkVGQjNCMUM1N0RFNEUx
+  • ID do vídeo: K8K5EBaxddU
+  • Publicado em: 2025-01-30T20:00:10Z
+  • Link: https://www.youtube.com/watch?v=K8K5EBaxddU
+  • Visualizações: 5818
+--------------------------------------------------------------------------------
+📹 Vídeo 7:
+  • Título: Curso de Python 2025 - Aula 6 - For e estruturas de repetição
+  • Tipo do item: youtube#playlistItem
+  • ETag: MDQRpKxbd8aZhMHiNw_UP0MXxJc
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC41MzJCQjBCNDIyRkJDN0VD
+  • ID do vídeo: bdt5N8LaGBg
+  • Publicado em: 2025-02-04T20:00:18Z
+  • Link: https://www.youtube.com/watch?v=bdt5N8LaGBg
+  • Visualizações: 6298
+--------------------------------------------------------------------------------
+📹 Vídeo 8:
+  • Título: Curso de Python 2025 - Aula 7 - Funções e Parâmetros
+  • Tipo do item: youtube#playlistItem
+  • ETag: 6XAd2p8i87Bow62zdXv_NFl61D4
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC5DQUNERDQ2NkIzRUQxNTY1
+  • ID do vídeo: 9DVDs2wle5o
+  • Publicado em: 2025-02-06T20:00:06Z
+  • Link: https://www.youtube.com/watch?v=9DVDs2wle5o
+  • Visualizações: 5418
+--------------------------------------------------------------------------------
+📹 Vídeo 9:
+  • Título: Curso de Python 2025 - Aula 8 - Tuplas e Funções de Múltiplas respostas
+  • Tipo do item: youtube#playlistItem
+  • ETag: IEove1ZvrQHc4KEbzOgNvoLKP-Q
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC45NDk1REZENzhEMzU5MDQz
+  • ID do vídeo: IbAqilmWKYw
+  • Publicado em: 2025-02-18T20:00:10Z
+  • Link: https://www.youtube.com/watch?v=IbAqilmWKYw
+  • Visualizações: 4508
+--------------------------------------------------------------------------------
+📹 Vídeo 10:
+  • Título: Curso de Python 2025 - Aula 9 - Módulos, Bibliotecas e Minicursos Gratuitos
+  • Tipo do item: youtube#playlistItem
+  • ETag: vCLs0vZ6VKGuR7_mOWMxUD0Flvg
+  • ID do item na playlist: UExwZEF5MHRZcm5LeWpsNFNTSWt0MGw2REZ6TVZtdGZMZC5GNjNDRDREMDQxOThCMDQ2
+  • ID do vídeo: eSTIP37zgx0
+  • Publicado em: 2025-02-20T20:00:21Z
+  • Link: https://www.youtube.com/watch?v=eSTIP37zgx0
+  • Visualizações: 5961
+--------------------------------------------------------------------------------
