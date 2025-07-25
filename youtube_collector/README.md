@@ -25,7 +25,7 @@ README.md                # Documentação explicativa
 
 ---
 
-## 🧠 Entendendo o Código
+## Entendendo o Código
 
 ### Função `main()`
 
