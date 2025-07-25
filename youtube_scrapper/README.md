@@ -1,4 +1,4 @@
-# YouTube Playlist Collector
+# YouTube Playlist Scrapper
 
 Este projeto em Python tem como objetivo **coletar informações detalhadas dos vídeos de uma playlist do YouTube**, utilizando a [YouTube Data API v3](https://developers.google.com/youtube/v3). Ele é voltado para **automatização de tarefas de análise de conteúdo** e pode ser facilmente adaptado para projetos de monitoramento de canais, relatórios de engajamento, ou extração de dados.
 
