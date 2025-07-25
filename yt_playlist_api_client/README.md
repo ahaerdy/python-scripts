@@ -28,7 +28,7 @@ Este projeto em Python tem como objetivo **coletar informações detalhadas dos 
 ## 📁 Estrutura do Projeto
 
 ```
-yt_playlist_scrapper.py  # Script principal
+yt_playlist_api_client.py  # Script principal
 saida.txt                # Arquivo de saída (formatos de dicionário Python e textual)
 secrets.json             # Credenciais OAuth2 geradas no Google Cloud Console (não disponibilizado)
 README.md                # Documentação explicativa
