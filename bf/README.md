@@ -1,4 +1,4 @@
-# Introdução à Linguagem Brainfuck
+# Introdução à Linguagem
 
 Brainfuck é uma _linguagem de programação esotérica_ criada por Urban Müller em 1993. Seu objetivo é ser minimalista, com apenas 8 comandos. Apesar de sua simplicidade, é [Turing completa](https://pt.wikipedia.org/wiki/Turing_completude) — ou seja, capaz de expressar qualquer algoritmo.
 
