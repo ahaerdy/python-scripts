@@ -1,4 +1,4 @@
-# YouTube Data API CLient
+# YouTube Playlist API CLient
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-concluído-brightgreen" />
