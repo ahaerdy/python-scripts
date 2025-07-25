@@ -1,4 +1,4 @@
-# YouTube Playlist Scrapper
+# YouTube Playlist API Client
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-concluído-brightgreen" />
