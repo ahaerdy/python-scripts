@@ -102,7 +102,7 @@ response = request.execute()
 
 ---
 
-## 📄 Documento Explicativo: Estrutura da Resposta da API `playlistItems().list()`
+## 📄 Estrutura da Resposta da API `playlistItems().list()`
 
 ### Campos principais:
 
