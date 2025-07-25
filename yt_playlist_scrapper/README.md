@@ -1,5 +1,14 @@
 # YouTube Playlist Scrapper
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-em%20desenvolvimento-yellowgreen" />
+  <img src="https://img.shields.io/badge/Linguagem-Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Plataforma-Terminal-lightgrey" />
+</p>
+
+
 Este projeto em Python tem como objetivo **coletar informações detalhadas dos vídeos de uma playlist do YouTube**, utilizando a [YouTube Data API v3](https://developers.google.com/youtube/v3). Ele é voltado para **automatização de tarefas de análise de conteúdo** e pode ser facilmente adaptado para projetos de monitoramento de canais, relatórios de engajamento, ou extração de dados.
 
 ## 🔍 O que este script faz
