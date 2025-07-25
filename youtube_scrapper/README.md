@@ -11,7 +11,7 @@ Este projeto em Python tem como objetivo **coletar informações detalhadas dos 
   - Data de publicação
   - Link direto
   - Número de visualizações
-- Apresenta os dados em formato legível no terminal
+- Apresenta os dados em formato legível no terminal (ver arquivo [saida.txt](https://github.com/ahaerdy/python-scripts/blob/main/youtube_scrapper/saida.txt))
 
 ---
 
