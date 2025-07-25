@@ -19,7 +19,7 @@ Este projeto em Python tem como objetivo **coletar informações detalhadas dos 
 
 ```
 youtube_collector.py     # Script principal
-secrets.json             # Credenciais OAuth2 geradas no Google Cloud Console
+secrets.json             # Credenciais OAuth2 geradas no Google Cloud Console (não disponibilizado)
 README.md                # Documentação explicativa
 ```
 
