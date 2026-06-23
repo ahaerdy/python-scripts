@@ -21,5 +21,4 @@ Repositório com scripts Python focados em aprendizado, testes e projetos experi
 |--------|-----------|
 | [`bf`](https://github.com/ahaerdy/python-scripts/tree/main/bf)| Um interpretador da linguagem esotérica BF* escrito 100% em Python puro. |
 | [yt_playlist_api_client](https://github.com/ahaerdy/python-scripts/tree/main/yt_playlist_api_client) | Extrator de dados de vídeos em playlists do YouTube. | 
-| [consolidador-diario-obsidian-python](https://github.com/ahaerdy/consolidador-diario-obsidian-python#) | Consolidador de Métricas do Diário Obsidian |
-| 
+| [consolidador-diario-obsidian-python](https://github.com/ahaerdy/consolidador-diario-obsidian-python#) | Consolidador de Métricas Diárias do Obsidian |
