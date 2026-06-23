@@ -30,4 +30,6 @@ Repositório com scripts Python focados em aprendizado, testes e projetos experi
 | [consolidador-pessoas-obsidian-python](https://github.com/ahaerdy/consolidador-pessoas-obsidian-python) | Consolidador de Notas de Pessoas do Obsidian | 
 | [consolidador-profissional-obsidian-python](https://github.com/ahaerdy/consolidador-profissional-obsidian-python) | Consolidador de Fichas Profissionais do Obsidian |
 
+**script complementar**: [Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note) - Ferramenta CLI em ☕️ Java que automatiza a criação da nota diária no Obsidian — verificando se ela já existe e, caso contrário, copiando o seu template para a pasta correta com o nome baseado na data de hoje
+
 
