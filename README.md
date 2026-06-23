@@ -21,5 +21,13 @@ Repositório com scripts Python focados em aprendizado, testes e projetos experi
 |--------|-----------|
 | [interpretador `bf`](https://github.com/ahaerdy/python-scripts/tree/main/bf)| Um interpretador da linguagem BF* escrito 100% em Python puro. |
 | [yt_playlist_api_client](https://github.com/ahaerdy/python-scripts/tree/main/yt_playlist_api_client) | Extrator de dados de vídeos em playlists do YouTube. | 
+
+### Obsidian
+
+| Script | Descrição |
+|--------|-----------|
 | [consolidador-diario-obsidian-python](https://github.com/ahaerdy/consolidador-diario-obsidian-python#) | Consolidador de Métricas Diárias do Obsidian |
 | [consolidador-pessoas-obsidian-python](https://github.com/ahaerdy/consolidador-pessoas-obsidian-python) | Consolidador de Notas de Pessoas do Obsidian | 
+| [consolidador-profissional-obsidian-python](https://github.com/ahaerdy/consolidador-profissional-obsidian-python) | Consolidador de Fichas Profissionais do Obsidian |
+
+
